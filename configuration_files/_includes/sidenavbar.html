@@ -6,7 +6,7 @@
 
     {% for node in sortedPages %}
     {% if node.number != null %}
-          <a href="{{ node.url }}">{{ node.title }} - </a>
+          <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}{{ site.baseurl }}+{{ node.url }} - </a>
     {% endif %}
     {% endfor %}
 
