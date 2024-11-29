@@ -1,7 +1,7 @@
 name: WinterReliefWork
-media_type:image
+media_type: image
 
-_title:Winter Relief Work: A people helps itself
+_title: Winter Relief Work A people helps itself
 description: German Propaganda
 creator: Germany
 source: Google Images
