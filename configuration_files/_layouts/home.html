@@ -19,16 +19,16 @@
     <body>
     {% include sidenavbar.html %}
     <div id="search_icon">
-        <a href="/{{ site.baseurl }}{% link search.html %}">
-        <img src="/{{ site.baseurl }}/configuration_files/assets/img/search_icon.png" width = "30" height = "30"></a></div>
+        <a href="{{ site.baseurl }}{% link search.html %}">
+        <img src="{{ site.baseurl }}/configuration_files/assets/img/search_icon.png" width = "30" height = "30"></a></div>
     </div>
         <div class="title_card">
             <h1 class="header_main">{{ site.title }}</h1>
             <h2 class="header_main">{{ site.description }}</h2>
-            <button><a href="/{{ site.baseurl }}{% link 001_introduction.md %}" id="btn">Start with Intro</a></button>
+            <button><a href="{{ site.baseurl }}{% link 001_introduction.md %}" id="btn">Start with Intro</a></button>
         </div>
     </body>
 
-    <script src="/{{ site.baseurl }}/configuration_files/assets/js/nav.js"></script>
+    <script src="{{ site.baseurl }}/configuration_files/assets/js/nav.js"></script>
 
 </html>
