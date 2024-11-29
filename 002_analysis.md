@@ -28,7 +28,7 @@ Beyond their military roles, women served in agricultural and industrial positio
 
 # Embedding a Single Image
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'PrussianInfantryHohenfriedberg'" %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'WinterReliefWork.jpg'" %}
 {% include media.html pages=media %}
 
 # Embedding a Single Video
