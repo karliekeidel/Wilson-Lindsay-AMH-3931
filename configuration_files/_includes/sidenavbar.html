@@ -1,12 +1,12 @@
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="/{{ site.baseurl }}{% link index.markdown %}">Home</a>
+  <a href="{{ site.baseurl }}{% link index.markdown %}">Home</a>
 
   {% assign sortedPages = site.pages | sort: 'number' %}
 
     {% for node in sortedPages %}
     {% if node.number != null %}
-          <a href="/{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+          <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
     {% endif %}
     {% endfor %}
 
