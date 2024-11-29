@@ -6,7 +6,7 @@ number: 1
 # Introduction
 
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'EmperorNapoleon'" %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Women'" %}
 {% include media.html pages=media %}
 
 
