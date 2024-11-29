@@ -31,6 +31,7 @@ The situation in Switzerland was very similar to the environment that invoked Sw
 
 # Embedding a Single Image
 
+![](/media_files/WinterReliefWork.jpg)
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'WinterReliefWork'" %}
 {% include media.html pages=media %}
 
