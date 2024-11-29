@@ -29,8 +29,8 @@ Even though countries such as Switzerland and Sweden were considered neutral cou
 
 The situation in Switzerland was very similar to the environment that invoked Swedish women during the war. Much like the Swiss women’s auxiliary military service, the Swedish women had the Swedish Women’s Voluntary Defense Force. While this force is clearly not obligatory hence the name. They still provided a vital role to the society and security services of the nation. Much like the women in the Swiss auxiliary force women here in the Swedish one played very similar roles in medical and communications positions. This again shifted gender roles as women were now becoming more the heads of the households as well as holding down important positions in the workforce as men were away. In these neutral countries, while war was felt as directly at home, in terms of gender roles the impact was still quite strong. Men were shifted away from household life while women had to work and run the day-to-day, looking after children and managing stressful jobs as well. Sadly in spite of the advances that women made in society through these shifting circumstances, women’s rights still were very slow to come to fruition in these regions.
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'WinterReliefWork.jpg'" %}
-{% include media.html pages=media %}
+![](media_files/WinterReliefWork.jpg)
+{% raw %} {% assign media = site.media_metadata | where_exp: "item", "item.name == 'WinterReliefWork'" %} {% include media.html pages=media %} {% endraw %}
 
 # Embedding a Single Image
 
