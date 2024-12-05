@@ -1,13 +1,14 @@
+
 ---
-name: Child
+name: child
 media_type: image
 
-_title: German Women Think about Your Children Vote for Hitler
+_title: German Propaganda
+description:  National Socialist and German Women's Union
 creator: National Socialist and German Women's Union
-_date: 1805
+_date: 1932
 source: Cambridge
 
 _path: /media_files/images/child.jpg 
 layout: media_description
-
 ---
