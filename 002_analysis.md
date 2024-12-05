@@ -33,8 +33,6 @@ At first, Sweden was also very traditional in regard to expectations of women. H
 
 # Embedding a Single Image
 
-![](/media_files/WinterReliefWork.jpg)
-
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'WinterReliefWork'" %}
 {% include media.html pages=media %}
 
