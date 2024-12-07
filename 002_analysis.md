@@ -40,7 +40,7 @@ At first, Sweden was also very traditional in regard to expectations of women. H
 [^3]: Taeuber, Conrad, and Irene B. Taeuber. “German Fertility Trends, 1933-39.” American Journal of Sociology 46, no. 2 (1940): 150–67. http://www.jstor.org/stable/2769448.
 [^4]: Gerhardt, Uta. “Talcott Parsons and the Transformation of German Society at the End of World War II.” European Sociological Review 12, no. 3 (1996): 303–25. http://www.jstor.org/stable/522585.
 [^5]: Yoneyama, Lisa. "Liberation under Siege: U.S. Military Occupation and Japanese Women's Enfranchisement." American Quarterly 57, no. 3 (2005): 885-910. https://dx.doi.org/10.1353/aq.2005.0056
-[^5]: Carmen M. Argibay, "Sexual Slavery and the Comfort Women of World War II," Berkeley Journal of International Law 21, no. 2 (2003): 375-389
+[^6]: Carmen M. Argibay, "Sexual Slavery and the Comfort Women of World War II," Berkeley Journal of International Law 21, no. 2 (2003): 375-389
 # Linking to a PDF File
 
 [Download PDF file]({{ site.baseurl }}/media_files/pdfs/newspaper1942.pdf)
