@@ -22,11 +22,21 @@ Yoneyama, Lisa. “Liberation under Siege: U.S. Military Occupation and Japanese
 Carmen M. Argibay, “Sexual Slavery and the Comfort Women of World War II,” Berkeley Journal of International Law 21, no. 2 (2003): 375-389 
 
 
-## United Kingdom by Carlie:​
+## United Kingdom by Karlie:​
 
-Ministry of Defence and Prime Minister’s Office. 2015. “The Women of the Second World War.” Government Entity. GOV.UK. April 16, 2015. https://www.gov.uk/government/news/the-women-of-the-second-world-war.​
+Ministry of Defence and Prime Minister’s Office. 2015. “The Women of the Second World War.” Government Entity. GOV.UK. April 16, 2015. https://www.gov.uk/government/news/the-women-of-the-second-world-war.
 
-## Soviet Union by Carlie:​
+Forestry and Land Scotland. “Women’s Timber Corps.” Government Entity. Heritage, N.D. https://forestryandland.gov.scot/learn/heritage/world-war-two/womens-timber-corps.
+
+UK Parliament. “Conscription: The Second World War.” Government Entity. Living Heritage, N.D. https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/yourcountry/overview/conscriptionww2/#:~:text=In%20December%201941%20Parliament%20passed,30%20liable%20to%20call%2Dup.
+
+Watton, Cherish and Inagural Royal Historical Society. “Second World War Women’s Land Army.” Women’s Land Army, August 2017. https://www.womenslandarmy.co.uk/world-war-two/.
+
+Potts, Lauren, and Monica Rimmer. “The Canary Girls: The Workers the War Turned Yellow.” Public Service Broadcaster. BBC News, May 20, 2017. https://www.bbc.com/news/uk-england-39434504.
+​
+## Soviet Union by Karlie:​
+
+AP. “Ottawa Citizen.” No. 82, September 23, 1944, sec. Shanina Terror of East Prussia.
 
 Noble, Haley. 2019. “Women in Combat: The Soviet Example.” History Graduate Projects and Theses. 9., Boise State University. https://scholarworks.boisestate.edu/history_gradproj/9.​
 
