@@ -50,8 +50,9 @@ At first, Sweden was also very traditional in regard to expectations of women. H
 [^9]: Forestry and Land Scotland. “Women’s Timber Corps.” Government Entity. Heritage, N.D. https://forestryandland.gov.scot/learn/heritage/world-war-two/womens-timber-corps
 [^10]: Watton, Cherish and Inagural Royal Historical Society. “Second World War Women’s Land Army.” Women’s Land Army, August 2017. https://www.womenslandarmy.co.uk/world-war
 [^11]: Noble, Haley. 2019. “Women in Combat: The Soviet Example.” History Graduate Projects and Theses. 9., Boise State University. https://scholarworks.boisestate.edu/history_gradproj/9.​
-[^12]: AP. “Ottawa Citizen.” No. 82, September 23, 1944, sec. Shanina Terror of East Prussia
-[^13]: James, Helen. “Swiss Women Didn’t Only Cook during the Second World War.” SWI swissinfo.ch, January 28, 2024. https://www.swissinfo.ch/eng/history/world-war-ii_swiss-women-didn-t-only-cook-during-the-second-world-war/45711668. ​
+[^12]: James, Helen. “Swiss Women Didn’t Only Cook during the Second World War.” SWI swissinfo.ch, January 28, 2024.
+https://www.swissinfo.ch/eng/history/world-war-ii_swiss-women-didn-t-only-cook-during-the-second-world-war/45711668. 
+[^13]: AP. “Ottawa Citizen.” No. 82, September 23, 1944, sec. Shanina Terror of East Prussia ​
 [^14]:Sundevall, Fia. "Money, Gender and Military Training: Women as Economic Agents in Military Affairs (Sweden 1924–1942)." Militärhistorisk tidskrift (2017): 60-89.​
 
 ​
